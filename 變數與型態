@@ -1,0 +1,4 @@
+x = input("請輸入X值 ") 
+y = input("請輸入Y值 ")
+sum = float(x)+float(y)
+print(sum)
