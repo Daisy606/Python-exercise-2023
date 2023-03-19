@@ -1,0 +1,4 @@
+s = input("Your website") 
+# https://www.facebook.com/dscareer
+ns = s.split("/")
+print(ns[2])
